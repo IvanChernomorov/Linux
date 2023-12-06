@@ -1,36 +1,50 @@
-### Ответы на hackthebox
+## Ответы на hackthebox
 
 #### The Shell
 + System information
-  + 1 -> X86_64
-  + 2 -> /home/htb-student
-  + 3 -> /var/mail/htb-student
-  + 4 -> /bin/bash
-  + 5 -> 4.15.0
-  + 6 -> ens192
+  + X86_64
+  + /home/htb-student
+  + /var/mail/htb-student
+  + /bin/bash
+  + 4.15.0
+  + ens192
 
 #### Workflow
 + Navigation
-  + 1 -> .bash_history
-  + 2 -> 147627
+  + .bash_history
+  + 147627
 + Working with Files and Directories
-  + 1 -> apt.extended_states.0
-  + 2 -> 265293
+  + apt.extended_states.0
+  + 265293
 + Find Files and Directories
-  + 1 -> 00-mesa-defaults.conf
-  + 2 -> 4
-  + 3 -> /usr/bin/xxd
+  + 00-mesa-defaults.conf
+  + 4
+  + /usr/bin/xxd
 + File Descriptors and Redirections
-  + 1 -> 32
-  + 2 -> 737
+  + 32
+  + 737
 + Filter Contents
-  + 1 -> 7
-  + 2 -> proftpd
-  + 3 -> 34
+  + 7
+  + proftpd
+  + 34
+
+#### System Management
++ User Management
+  + -m
+  + --lock
+  + command
++ Service and Process Management
+  + snapd.apparmor.service
++ Task Scheduling
+  + Notify
++ Working with Web Services
+  + http-server -p 8080
+  + php -S 127.0.0.1:8080
++ File System Management
+  + 3
 
 
-
-### Ответы на regexcrossword
+## Ответы на regexcrossword
 
 #### Cities
 + LI MA
